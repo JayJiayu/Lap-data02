@@ -1,9 +1,12 @@
 # Lap-data02
+//stat coding
+
+
 import java.util.Random;
 import java.util.Scanner;
 
 public class Blackjack {
-	private int[] cardYou = new int[5];
+    private int[] cardYou = new int[5];
     private int[] cardComputer = new int[2];
     private int sumYou,sumComputer = 0;
     private String winner;
